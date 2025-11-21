@@ -1,0 +1,537 @@
+MICROSOFT FORMS SURVEY QUESTIONS - SEN Teacher Feedback (Queries)
+============================================================
+
+Instructions for Microsoft Forms Setup:
+1. Create a new Microsoft Form
+2. For each question below, create a 'Multiple Choice' question
+3. Copy the question text and all options
+4. Ensure the source model for the options is noted in the Form's description/metadata.
+5. Add a text box after each multiple choice for detailed feedback on the 'Other' option.
+
+============================================================
+
+QUESTION 1:
+----------------------------------------
+Question 1: What specific digital resources or differentiation techniques are recommended for adapting a Art lesson to meet the needs of a Key Stage 4 (14-16) student with Autism Spectrum Disorder who is dealing with sensory overload in a busy classroom?
+
+SEN Category: Autism Spectrum Disorder
+Age Group: Key Stage 4 (14-16)
+Subject: Art
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+2. Option 2 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+3. Option 3 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+4. Option 4 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 2:
+----------------------------------------
+Question 2: How can a teacher best communicate concerns about sensory overload in a busy classroom to the parents/carers of a student with Autism Spectrum Disorder in Early Years (3-5), ensuring a collaborative approach?
+
+SEN Category: Autism Spectrum Disorder
+Age Group: Early Years (3-5)
+Subject: PE
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+2. Option 2 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+3. Option 3 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+4. Option 4 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 3:
+----------------------------------------
+Question 3: How can a teacher best communicate concerns about accessible resources in Art to the parents/carers of a student with Physical Disability in Key Stage 4 (14-16), ensuring a collaborative approach?
+
+SEN Category: Physical Disability
+Age Group: Key Stage 4 (14-16)
+Subject: PE
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+2. Option 2 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+3. Option 3 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+4. Option 4 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 4:
+----------------------------------------
+Question 4: What specific low-tech resources or differentiation techniques are recommended for adapting a English lesson to meet the needs of a Key Stage 2 (7-11) student with Physical Disability who is dealing with managing fatigue during a full school day?
+
+SEN Category: Physical Disability
+Age Group: Key Stage 2 (7-11)
+Subject: English
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+2. Option 2 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+3. Option 3 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+4. Option 4 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 5:
+----------------------------------------
+Question 5: What specific visual resources or differentiation techniques are recommended for adapting a PE lesson to meet the needs of a Key Stage 1 (5-7) student with Attention Deficit Hyperactivity Disorder who is dealing with consistent difficulty maintaining focus on multi-step tasks?
+
+SEN Category: Attention Deficit Hyperactivity Disorder
+Age Group: Key Stage 1 (5-7)
+Subject: PE
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+2. Option 2 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+3. Option 3 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+4. Option 4 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 6:
+----------------------------------------
+Question 6: A teacher has a Key Stage 2 (7-11) student with Attention Deficit Hyperactivity Disorder struggling with PE. What are the **three most effective, quick-to-implement** intervention strategies for this specific managing impulsive interruptions during whole-class instruction?
+
+SEN Category: Attention Deficit Hyperactivity Disorder
+Age Group: Key Stage 2 (7-11)
+Subject: PE
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+2. Option 2 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+3. Option 3 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+4. Option 4 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 7:
+----------------------------------------
+Question 7: When a Early Years (3-5) student with Specific Learning Difficulties exhibits decoding and reading fluency during assessment, what is the recommended school policy or best practice for de-escalation and positive behavior support in a mainstream/SEN school setting?
+
+SEN Category: Specific Learning Difficulties
+Age Group: Early Years (3-5)
+Subject: Social Skills
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+2. Option 2 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+3. Option 3 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+4. Option 4 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 8:
+----------------------------------------
+Question 8: What are measurable and achievable Individual Education Plan (IEP) goals for a Key Stage 3 (11-14) student with Visual Impairment who is currently exhibiting adapting visual worksheets in Math in Life Skills?
+
+SEN Category: Visual Impairment
+Age Group: Key Stage 3 (11-14)
+Subject: Life Skills
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+2. Option 2 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+3. Option 3 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+4. Option 4 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 9:
+----------------------------------------
+Question 9: What are measurable and achievable Individual Education Plan (IEP) goals for a Key Stage 4 (14-16) student with Attention Deficit Hyperactivity Disorder who is currently exhibiting managing impulsive interruptions during whole-class instruction in Mathematics?
+
+SEN Category: Attention Deficit Hyperactivity Disorder
+Age Group: Key Stage 4 (14-16)
+Subject: Mathematics
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+2. Option 2 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+3. Option 3 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+4. Option 4 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 10:
+----------------------------------------
+Question 10: What are measurable and achievable Individual Education Plan (IEP) goals for a Key Stage 3 (11-14) student with Moderate Learning Difficulties who is currently exhibiting general academic underachievement in English?
+
+SEN Category: Moderate Learning Difficulties
+Age Group: Key Stage 3 (11-14)
+Subject: English
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+2. Option 2 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+3. Option 3 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+4. Option 4 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 11:
+----------------------------------------
+Question 11: When a Key Stage 1 (5-7) student with Autism Spectrum Disorder exhibits rigid thinking impacting problem-solving during independent work, what is the recommended school policy or best practice for de-escalation and positive behavior support in a mainstream/SEN school setting?
+
+SEN Category: Autism Spectrum Disorder
+Age Group: Key Stage 1 (5-7)
+Subject: Art
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+2. Option 2 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+3. Option 3 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+4. Option 4 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 12:
+----------------------------------------
+Question 12: How can a teacher best communicate concerns about accessible resources in Art to the parents/carers of a student with Physical Disability in Key Stage 1 (5-7), ensuring a collaborative approach?
+
+SEN Category: Physical Disability
+Age Group: Key Stage 1 (5-7)
+Subject: Science
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+2. Option 2 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+3. Option 3 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+4. Option 4 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 13:
+----------------------------------------
+Question 13: What specific digital resources or differentiation techniques are recommended for adapting a Science lesson to meet the needs of a Key Stage 2 (7-11) student with Hearing Impairment who is dealing with ensuring full access to verbal instruction?
+
+SEN Category: Hearing Impairment
+Age Group: Key Stage 2 (7-11)
+Subject: Science
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+2. Option 2 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+3. Option 3 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+4. Option 4 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 14:
+----------------------------------------
+Question 14: What specific kinaesthetic resources or differentiation techniques are recommended for adapting a Life Skills lesson to meet the needs of a Key Stage 1 (5-7) student with Physical Disability who is dealing with accessible resources in Art?
+
+SEN Category: Physical Disability
+Age Group: Key Stage 1 (5-7)
+Subject: Life Skills
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+2. Option 2 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+3. Option 3 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+4. Option 4 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 15:
+----------------------------------------
+Question 15: A teacher has a Key Stage 3 (11-14) student with Hearing Impairment struggling with Art. What are the **three most effective, quick-to-implement** intervention strategies for this specific using technology to support communication?
+
+SEN Category: Hearing Impairment
+Age Group: Key Stage 3 (11-14)
+Subject: Art
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+2. Option 2 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+3. Option 3 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+4. Option 4 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 16:
+----------------------------------------
+Question 16: A teacher has a Key Stage 4 (14-16) student with Hearing Impairment struggling with PE. What are the **three most effective, quick-to-implement** intervention strategies for this specific ensuring full access to verbal instruction?
+
+SEN Category: Hearing Impairment
+Age Group: Key Stage 4 (14-16)
+Subject: PE
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+2. Option 2 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+3. Option 3 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+4. Option 4 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 17:
+----------------------------------------
+Question 17: How can a teacher best communicate concerns about general academic underachievement to the parents/carers of a student with Moderate Learning Difficulties in Key Stage 1 (5-7), ensuring a collaborative approach?
+
+SEN Category: Moderate Learning Difficulties
+Age Group: Key Stage 1 (5-7)
+Subject: PE
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+2. Option 2 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+3. Option 3 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+4. Option 4 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 18:
+----------------------------------------
+Question 18: A teacher has a Key Stage 3 (11-14) student with Autism Spectrum Disorder struggling with Mathematics. What are the **three most effective, quick-to-implement** intervention strategies for this specific sensory overload in a busy classroom?
+
+SEN Category: Autism Spectrum Disorder
+Age Group: Key Stage 3 (11-14)
+Subject: Mathematics
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+2. Option 2 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+3. Option 3 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+4. Option 4 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 19:
+----------------------------------------
+Question 19: What specific low-tech resources or differentiation techniques are recommended for adapting a Life Skills lesson to meet the needs of a Key Stage 4 (14-16) student with Visual Impairment who is dealing with safe movement around the classroom?
+
+SEN Category: Visual Impairment
+Age Group: Key Stage 4 (14-16)
+Subject: Life Skills
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+2. Option 2 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+3. Option 3 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+4. Option 4 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 20:
+----------------------------------------
+Question 20: A teacher has a Key Stage 2 (7-11) student with Attention Deficit Hyperactivity Disorder struggling with Life Skills. What are the **three most effective, quick-to-implement** intervention strategies for this specific managing impulsive interruptions during whole-class instruction?
+
+SEN Category: Attention Deficit Hyperactivity Disorder
+Age Group: Key Stage 2 (7-11)
+Subject: Life Skills
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+2. Option 2 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+3. Option 3 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+4. Option 4 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 21:
+----------------------------------------
+Question 21: How can a teacher best communicate concerns about general academic underachievement to the parents/carers of a student with Moderate Learning Difficulties in Key Stage 1 (5-7), ensuring a collaborative approach?
+
+SEN Category: Moderate Learning Difficulties
+Age Group: Key Stage 1 (5-7)
+Subject: English
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+2. Option 2 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+3. Option 3 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+4. Option 4 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 22:
+----------------------------------------
+Question 22: When a Key Stage 2 (7-11) student with Hearing Impairment exhibits ensuring full access to verbal instruction during break time, what is the recommended school policy or best practice for de-escalation and positive behavior support in a mainstream/SEN school setting?
+
+SEN Category: Hearing Impairment
+Age Group: Key Stage 2 (7-11)
+Subject: Art
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+2. Option 2 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+3. Option 3 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+4. Option 4 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 23:
+----------------------------------------
+Question 23: How can a teacher best communicate concerns about dealing with extreme anxiety preventing participation to the parents/carers of a student with Social, Emotional, Mental Health in Key Stage 4 (14-16), ensuring a collaborative approach?
+
+SEN Category: Social, Emotional, Mental Health
+Age Group: Key Stage 4 (14-16)
+Subject: Science
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+2. Option 2 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+3. Option 3 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+4. Option 4 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 24:
+----------------------------------------
+Question 24: A teacher has a Early Years (3-5) student with Attention Deficit Hyperactivity Disorder struggling with Science. What are the **three most effective, quick-to-implement** intervention strategies for this specific consistent difficulty maintaining focus on multi-step tasks?
+
+SEN Category: Attention Deficit Hyperactivity Disorder
+Age Group: Early Years (3-5)
+Subject: Science
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+2. Option 2 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+3. Option 3 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+4. Option 4 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 25:
+----------------------------------------
+Question 25: What are measurable and achievable Individual Education Plan (IEP) goals for a Early Years (3-5) student with Moderate Learning Difficulties who is currently exhibiting general academic underachievement in Art?
+
+SEN Category: Moderate Learning Difficulties
+Age Group: Early Years (3-5)
+Subject: Art
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS (Source Model: GPT-4o)
+1. Option 1 (Focus: Social): (GPT-4o) Implement a structured peer-buddy system specific to the activity. Role-play social interactions and use brief 'social stories' before lessons.
+2. Option 2 (Focus: Environmental): (GPT-4o) Structure the learning space; provide a quiet corner, use visual timetables, and ensure minimal clutter to manage sensory input.
+3. Option 3 (Focus: Instructional): (GPT-4o) Simplify instructions into visual, multi-step checklists. Use immediate, frequent positive reinforcement tied to effort, not just outcome.
+4. Option 4 (Focus: Behavioral): (GPT-4o) Establish clear, co-created classroom rules. Use a points/token system focused on self-regulation and impulse control, with specific, non-judgmental feedback.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+

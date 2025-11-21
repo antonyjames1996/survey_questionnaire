@@ -1,0 +1,222 @@
+MICROSOFT FORMS SURVEY QUESTIONS - SEN Teacher Feedback
+============================================================
+
+Instructions for Microsoft Forms Setup:
+1. Create a new Microsoft Form
+2. For each question below, create a 'Multiple Choice' question
+3. Copy the question text and all options
+4. Enable 'Other' option for teacher improvements
+5. Add a text box after each multiple choice for detailed feedback
+
+============================================================
+
+QUESTION 1:
+----------------------------------------
+Question 1: During Mathematics lesson, a Early Years (3-5) student with Moderate Learning Difficulties faces learning difficulties. How would you adapt your teaching approach?
+
+SEN Category: Moderate Learning Difficulties
+Age Group: Early Years (3-5)
+Subject: Mathematics
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS:
+1. Option 1 (Social): Implement peer buddy systems and social stories. Practice social skills explicitly and provide opportunities for structured social interaction.
+2. Option 2 (Behavioral): Use positive behavior support strategies with clear expectations. Implement a token economy system and teach self-regulation techniques.
+3. Option 3 (Environmental): Create a calm, structured environment with visual supports and clear routines. Use noise-cancelling headphones if needed and provide a designated quiet space for breaks.
+4. Option 4 (Instructional): Break tasks into smaller, manageable steps with visual cues. Use multi-sensory teaching approaches and provide frequent positive reinforcement.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 2:
+----------------------------------------
+Question 2: During PE lesson, a Early Years (3-5) student with Moderate Learning Difficulties faces learning difficulties. How would you adapt your teaching approach?
+
+SEN Category: Moderate Learning Difficulties
+Age Group: Early Years (3-5)
+Subject: PE
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS:
+1. Option 1 (Social): Implement peer buddy systems and social stories. Practice social skills explicitly and provide opportunities for structured social interaction.
+2. Option 2 (Instructional): Break tasks into smaller, manageable steps with visual cues. Use multi-sensory teaching approaches and provide frequent positive reinforcement.
+3. Option 3 (Behavioral): Use positive behavior support strategies with clear expectations. Implement a token economy system and teach self-regulation techniques.
+4. Option 4 (Assessment): Modify assessment methods using alternative formats. Allow extra time and provide assistive technology where appropriate.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 3:
+----------------------------------------
+Question 3: A student with Visual Impairment in Key Stage 2 (7-11) is struggling with Art. They faces learning difficulties. What intervention strategies would you recommend?
+
+SEN Category: Visual Impairment
+Age Group: Key Stage 2 (7-11)
+Subject: Art
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS:
+1. Option 1 (Assessment): Modify assessment methods using alternative formats. Allow extra time and provide assistive technology where appropriate.
+2. Option 2 (Instructional): Break tasks into smaller, manageable steps with visual cues. Use multi-sensory teaching approaches and provide frequent positive reinforcement.
+3. Option 3 (Environmental): Create a calm, structured environment with visual supports and clear routines. Use noise-cancelling headphones if needed and provide a designated quiet space for breaks.
+4. Option 4 (Behavioral): Use positive behavior support strategies with clear expectations. Implement a token economy system and teach self-regulation techniques.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 4:
+----------------------------------------
+Question 4: A student with Moderate Learning Difficulties in Key Stage 4 (14-16) is struggling with Mathematics. They faces learning difficulties. What intervention strategies would you recommend?
+
+SEN Category: Moderate Learning Difficulties
+Age Group: Key Stage 4 (14-16)
+Subject: Mathematics
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS:
+1. Option 1 (Assessment): Modify assessment methods using alternative formats. Allow extra time and provide assistive technology where appropriate.
+2. Option 2 (Environmental): Create a calm, structured environment with visual supports and clear routines. Use noise-cancelling headphones if needed and provide a designated quiet space for breaks.
+3. Option 3 (Instructional): Break tasks into smaller, manageable steps with visual cues. Use multi-sensory teaching approaches and provide frequent positive reinforcement.
+4. Option 4 (Social): Implement peer buddy systems and social stories. Practice social skills explicitly and provide opportunities for structured social interaction.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 5:
+----------------------------------------
+Question 5: A student with Autism Spectrum Disorder struggles with social interactions during group work when working on Social Skills tasks. How would you modify the activity?
+
+SEN Category: Autism Spectrum Disorder
+Age Group: Key Stage 3 (11-14)
+Subject: Social Skills
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS:
+1. Option 1 (Environmental): Create a calm, structured environment with visual supports and clear routines. Use noise-cancelling headphones if needed and provide a designated quiet space for breaks.
+2. Option 2 (Behavioral): Use positive behavior support strategies with clear expectations. Implement a token economy system and teach self-regulation techniques.
+3. Option 3 (Social): Implement peer buddy systems and social stories. Practice social skills explicitly and provide opportunities for structured social interaction.
+4. Option 4 (Instructional): Break tasks into smaller, manageable steps with visual cues. Use multi-sensory teaching approaches and provide frequent positive reinforcement.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 6:
+----------------------------------------
+Question 6: A Hearing Impairment student finds it difficult to concentrate on english tasks in English lessons. What accommodations would be most effective?
+
+SEN Category: Hearing Impairment
+Age Group: Key Stage 3 (11-14)
+Subject: English
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS:
+1. Option 1 (Environmental): Create a calm, structured environment with visual supports and clear routines. Use noise-cancelling headphones if needed and provide a designated quiet space for breaks.
+2. Option 2 (Assessment): Modify assessment methods using alternative formats. Allow extra time and provide assistive technology where appropriate.
+3. Option 3 (Instructional): Break tasks into smaller, manageable steps with visual cues. Use multi-sensory teaching approaches and provide frequent positive reinforcement.
+4. Option 4 (Behavioral): Use positive behavior support strategies with clear expectations. Implement a token economy system and teach self-regulation techniques.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 7:
+----------------------------------------
+Question 7: A Hearing Impairment student finds it difficult to concentrate on art tasks in Art lessons. What accommodations would be most effective?
+
+SEN Category: Hearing Impairment
+Age Group: Key Stage 3 (11-14)
+Subject: Art
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS:
+1. Option 1 (Instructional): Break tasks into smaller, manageable steps with visual cues. Use multi-sensory teaching approaches and provide frequent positive reinforcement.
+2. Option 2 (Behavioral): Use positive behavior support strategies with clear expectations. Implement a token economy system and teach self-regulation techniques.
+3. Option 3 (Environmental): Create a calm, structured environment with visual supports and clear routines. Use noise-cancelling headphones if needed and provide a designated quiet space for breaks.
+4. Option 4 (Assessment): Modify assessment methods using alternative formats. Allow extra time and provide assistive technology where appropriate.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 8:
+----------------------------------------
+Question 8: In your Key Stage 1 (5-7) class, a student with Physical Disability faces learning difficulties. What support strategies would you implement?
+
+SEN Category: Physical Disability
+Age Group: Key Stage 1 (5-7)
+Subject: Art
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS:
+1. Option 1 (Assessment): Modify assessment methods using alternative formats. Allow extra time and provide assistive technology where appropriate.
+2. Option 2 (Social): Implement peer buddy systems and social stories. Practice social skills explicitly and provide opportunities for structured social interaction.
+3. Option 3 (Instructional): Break tasks into smaller, manageable steps with visual cues. Use multi-sensory teaching approaches and provide frequent positive reinforcement.
+4. Option 4 (Environmental): Create a calm, structured environment with visual supports and clear routines. Use noise-cancelling headphones if needed and provide a designated quiet space for breaks.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 9:
+----------------------------------------
+Question 9: A Speech, Language, Communication Needs student finds it difficult to concentrate on life skills tasks in Life Skills lessons. What accommodations would be most effective?
+
+SEN Category: Speech, Language, Communication Needs
+Age Group: Key Stage 3 (11-14)
+Subject: Life Skills
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS:
+1. Option 1 (Social): Implement peer buddy systems and social stories. Practice social skills explicitly and provide opportunities for structured social interaction.
+2. Option 2 (Assessment): Modify assessment methods using alternative formats. Allow extra time and provide assistive technology where appropriate.
+3. Option 3 (Environmental): Create a calm, structured environment with visual supports and clear routines. Use noise-cancelling headphones if needed and provide a designated quiet space for breaks.
+4. Option 4 (Instructional): Break tasks into smaller, manageable steps with visual cues. Use multi-sensory teaching approaches and provide frequent positive reinforcement.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
+QUESTION 10:
+----------------------------------------
+Question 10: In your Key Stage 2 (7-11) class, a student with Specific Learning Difficulties faces learning difficulties. What support strategies would you implement?
+
+SEN Category: Specific Learning Difficulties
+Age Group: Key Stage 2 (7-11)
+Subject: English
+
+Please select the BEST response from the options below, or choose 'Other' to provide your own improved answer:
+
+OPTIONS:
+1. Option 1 (Behavioral): Use positive behavior support strategies with clear expectations. Implement a token economy system and teach self-regulation techniques.
+2. Option 2 (Environmental): Create a calm, structured environment with visual supports and clear routines. Use noise-cancelling headphones if needed and provide a designated quiet space for breaks.
+3. Option 3 (Instructional): Break tasks into smaller, manageable steps with visual cues. Use multi-sensory teaching approaches and provide frequent positive reinforcement.
+4. Option 4 (Assessment): Modify assessment methods using alternative formats. Allow extra time and provide assistive technology where appropriate.
+5. Other (Please specify your improved response in the text box below)
+
+FOLLOW-UP TEXT BOX: If you selected 'Other', please provide your improved response:
+
+============================================================
+
